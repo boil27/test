@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎标题
 
 You can use the [editor on GitHub](https://github.com/boil27/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
